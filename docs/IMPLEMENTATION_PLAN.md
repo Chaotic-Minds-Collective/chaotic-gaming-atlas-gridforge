@@ -12,10 +12,10 @@ Configuration authoring and validation workbench for ATLAS clusters, grids and r
 - Import/export, drafts, backups and bundles
 
 ## Dependencies
-- ChaoticAtlasResourceMap after provenance/license audit
+- CMG ATLAS Resource Map after provenance/license audit
 - Core server registry and scoped project permissions
 - ATLAS config contract; World consumes validated data
-- Review existing chaotic-atlas-admin frontend/backend
+- Review existing cmg-atlas-admin-plugin frontend/backend
 
 ## Data ownership
 GridForge owns drafts, map layers, catalogues, validation reports, schema versions and generated JSON. Core owns identity/roles/server registry. Preserve asset source/license metadata.
