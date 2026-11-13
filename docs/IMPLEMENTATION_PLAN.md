@@ -1,4 +1,4 @@
-# CG GridForge — Implementation Plan
+# CMG GridForge — Implementation Plan
 
 ## Purpose
 Configuration authoring and validation workbench for ATLAS clusters, grids and resource coverage.
